@@ -23,7 +23,7 @@ Petunjuk singkat untuk menjalankan file `Main.java` menggunakan terminal atau co
 2. Pindah ke folder tempat `Main.java` berada:
 
    ```bash
-   cd /path/ke/folder
+   cd belajar-java-swing
     ```
 
 3. Kompilasi program:
