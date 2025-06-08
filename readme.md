@@ -11,6 +11,12 @@ javac -version
 
 Jika belum, unduh dari https://jdk.java.net.
 
+## Clone project java
+
+```bash
+git clone https://github.com/Muhamad-Fatah/belajar-java-swing.git
+```  
+
 # Menjalankan Program Main.java
 
 Petunjuk singkat untuk menjalankan file `Main.java` menggunakan terminal atau command prompt.
