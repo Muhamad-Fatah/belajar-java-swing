@@ -1,7 +1,6 @@
 ## Requirement
 
 - Java Development Kit (JDK) versi 8 atau lebih baru
-- File `Main.java`
 
 Cek apakah Java sudah terpasang dengan menjalankan:
 
